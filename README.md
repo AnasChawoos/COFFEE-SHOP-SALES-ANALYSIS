@@ -1,53 +1,61 @@
-# COFFEE-SHOP-SALES-ANALYSISExcel-Avocado-Analysis-Dashboard
-A comprehensive analysis and interactive dashboard of Coffee Shop Sales across New York in 2023, providing key business insights and recommendations.
-
-#Avocado Price Analysis Dashboard
-Project Overview
-This project focuses on a descriptive analysis of avocado prices across various cities in the United States from 2015 to 2018. The goal is to understand past and present business scenarios by examining trends, patterns, and regional differences in avocado prices. The analysis aims to provide insights that can inform business decisions related to pricing strategies, marketing efforts, and inventory management.
-
-Dataset
-The dataset contains 18,000 rows and 13 columns, including the following parameters:
-
-Index Number
-Average Price of Avocados
-Total Volume
-Type of Avocado (Conventional or Organic)
-Total Bags (Small, Large, Extra-Large)
-Year
-Region
-Key Business Questions Addressed
-How do avocado prices fluctuate over time?
-What are the regional differences in avocado prices?
-How do organic and conventional avocado prices compare?
-What are the trends in sales volume?
-Are there any noticeable seasonal patterns in avocado prices and sales?
-Analytical Techniques and Tools
-Pivot Tables: Used to summarize data and identify key trends.
-Formulas: Employed for calculating metrics and aggregating data.
-Visualizations: Created using charts and graphs to represent data insights visually.
-Key Insights
-Price Trends: The average price of avocados showed significant fluctuations influenced by seasonal demand and supply factors.
-Regional Differences: Prices varied significantly across regions, with cities like New York and Los Angeles having higher average prices.
-Organic vs. Conventional: Organic avocados generally commanded higher prices compared to conventional avocados.
-Volume and Sales: Higher sales volumes were often associated with lower average prices.
-Seasonal Patterns: Clear seasonal patterns were observed, with certain months showing spikes in both price and volume.
-Business Implications
-These insights have several implications for businesses:
-
-Pricing Strategy: Adjusting prices based on regional differences and seasonal trends to maximize revenue.
-Marketing Focus: Developing targeted marketing campaigns around peak seasons and regions with higher sales volumes.
-Inventory Management: Optimizing inventory levels based on demand forecasts to reduce waste and ensure consistent supply.
-Recommendations
-Based on the analysis, the following recommendations are made:
-
-Implement dynamic pricing strategies that adjust prices based on real-time demand and regional trends.
-Focus promotional efforts in regions with lower sales volumes to increase market penetration.
-Launch special campaigns during peak seasons to take advantage of increased demand.
-Highlight the benefits of organic avocados in marketing efforts to justify the premium price and attract health-conscious consumers.
-Conclusion
-The Avocado Price Analysis Dashboard provides a comprehensive view of the avocado market over the past few years. By leveraging these insights, businesses can make data-driven decisions to enhance their strategies and improve overall performance.
-
-Author
-Kajal Barley
+# Maven-Roasters-Coffee-Shop-Analytics-Dashboard-Excel
+This repository presents two dynamic Excel dashboards developed to analyze and visualize sales performance and customer behavior for **Maven Roasters Coffee Shop**. These dashboards are designed to provide clear, actionable insights for data-driven decision-making in retail and F&B environments
 
 
+##  Project Overview
+
+This project includes:
+
+- **Sales Insights Dashboard**  
+  An in-depth view of revenue trends, top-selling products, store-wise performance, and category-wise contribution.
+
+- **Customer Behaviour Overview Dashboard**  
+  A focused analysis of customer footfall patterns across time, days, and store locations.
+
+These dashboards aim to simulate a real-world business intelligence setup often used by retail operations, marketing, and executive teams to understand key performance metrics.
+
+
+
+##  Key Insights & Features
+
+- 📈 **Total Revenue**: $698.81K generated across all stores  
+- 👣 **Total Footfalls**: 149,116 visitors analyzed  
+- 🧾 **Average Order Value**: $4.69  
+- 🕒 **Hourly Revenue & Footfalls**: Clear peak business hours identified between 7 AM - 10 AM  
+- 🏙️ **Store Location Comparison**: Nearly equal performance across Astoria, Hell's Kitchen, and Lower Manhattan  
+- 🍵 **Top Products by Footfalls**: Brewed Chai Tea and Gourmet Brewed Coffee are leading preferences  
+- 📊 **Revenue Trends**: Consistent monthly growth, especially from March to June  
+- 📆 **Day-wise Footfall Analysis**: Fridays and Thursdays attract the most visitors  
+
+---
+
+##  Why This Project Stands Out
+
+- **Realistic Business Scenario**: Mirrors actual café retail analytics use-cases  
+- **Interactive Slicers**: Filter data by date, store location, and product categories  
+- **Professional UI/UX**: Clean and intuitive layout for non-technical stakeholders  
+- **Excel Best Practices**: Visual hierarchy, tooltip use, consistent themes, and KPI display
+
+---
+
+
+
+##  Tools & Technologies
+
+Built entirely using **Microsoft Excel**, this project leverages advanced spreadsheet features to create interactive and insightful dashboards.
+
+### Microsoft Excel Features
+- **Power Query Editor** – For data claening and transformation 
+- **Pivot Tables** – For summarizing large datasets dynamically
+- **Pivot Charts** – Visual representations of sales and footfall trends
+- **Slicers & Timelines** – User-friendly filters to slice data by category, location, and date
+- **Conditional Formatting** – To highlight key trends and KPIs
+- **Custom Number Formatting** – Display values in K (thousands), with currency and percentage symbols
+- **KPI Cards using Shapes & Linked Cells** – To visually highlight revenue, footfalls, and average order value
+- **Chart Design & Layout** – Clean, consistent visual design with a focus on readability and insights
+
+  
+
+---
+
+<h3> Author : Anas Chawoos </h3>
